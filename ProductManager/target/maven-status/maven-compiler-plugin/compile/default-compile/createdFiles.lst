@@ -1,0 +1,5 @@
+com\sk\java\ProductManager\controller\AppController.class
+com\sk\java\ProductManager\ProductManagerApplication.class
+com\sk\java\ProductManager\service\ProductService.class
+com\sk\java\ProductManager\repository\ProductRepository.class
+com\sk\java\ProductManager\model\Product.class
